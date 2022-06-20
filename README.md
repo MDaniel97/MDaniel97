@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MDaniel97
+- 👋 Hi, I’m @MDaniel
 - 👀 I’m interested in Mobile App Development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
